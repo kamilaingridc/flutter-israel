@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:projeto_perguntas/main_18_Principal.dart';
-import 'main_16_segunda_tela.dart'; // Importe a Segunda_Tela_App
+import 'package:israel_flutter/main_18_Principal.dart';
+//import 'main_16_segunda_tela.dart'; // Importe a Segunda_Tela_App
 import 'database_helper.dart'; // Importe o DatabaseHelper
 import 'sensor_model.dart';
 

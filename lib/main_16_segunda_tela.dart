@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'database_helper_old.dart';
+import './database_helper.dart';
 import 'sensor_model.dart';
 //import 'main_15.dart'; // Importe a primeira tela
 import 'main_17_cadastro_edicao.dart'; // Importe a tela de cadastro de Sensores em BD
